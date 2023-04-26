@@ -131,5 +131,3 @@ int shellby_unsetenv(char **args, char __attribute__((__unused__)) **front)
 
 	return (0);
 }
-Footer
-© 2023 GitHub, Inc.
